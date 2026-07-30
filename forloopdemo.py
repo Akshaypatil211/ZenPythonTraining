@@ -32,3 +32,10 @@ for num in range(1,11):
         print(f"num:{num}")
         break;
 print(f"total:{total}")
+#contiune-------------------------------------------
+print("Contiune test")
+
+for i in range(1,6):
+    if i == 3:
+        continue;
+    print(i)
