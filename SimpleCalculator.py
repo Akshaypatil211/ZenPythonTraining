@@ -15,7 +15,7 @@ def divide(x,y):
          raise ValueError("Division by zero not allowed.")
     return x/y
 #print(add(1,2))
-
+#adding new 
 def main():
     print("Simple Calculator")
     print("select the operation want to perform 1.Add 2.Subtarct 3.Multiply 4.Divide")
